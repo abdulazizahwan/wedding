@@ -192,8 +192,8 @@ const locale = {
         "Allow us to adjust the guest capacity in the room at the time of the event.",
     prokes_4_item_icon: "/img",
 
-    credit_header: "With ♥ from Bandung",
-    credit_title: "Farah & Iksandi",
+    credit_header: "With ♥ from Tegal & Pekalongan",
+    credit_title: "Dewi & Aziz",
     credit_subtitle: "Monday, 05th June 2023",
 
     toast_success: "Success!",

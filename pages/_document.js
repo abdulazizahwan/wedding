@@ -5,7 +5,7 @@ import Favicon from '../components/Favicon';
 class MyDocument extends Document {
     render() {
         return (
-            <Html>
+            <Html lang="id">
                 <Head>
                     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Elsie+Swash+Caps&display=swap" />
                     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:200,300,400,600,700&display=swap" />

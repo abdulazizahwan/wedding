@@ -1,5 +1,5 @@
 const data = {
-    headerBackground: "https://drive.google.com/uc?id=1uyJD5T6YKHKF2HITci2PpYg0n-T1kC7t",
+    headerBackground: "https://drive.google.com/uc?id=1LI5tE-K4MsgpZFWGrrk8u8UQDfHVhNs-",
     dateCountdown: "2023-06-05T08:00:00",
     dateMaskPicture: "https://drive.google.com/uc?id=1xc0JcR4n4dvsm3X3UoJXMdqjapKZvx30",
     eventBackground: "https://drive.google.com/uc?id=1WikcJKKLipHPMvBdhcTkWpZ_lF3mzBhy",

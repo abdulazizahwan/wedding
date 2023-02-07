@@ -6,7 +6,6 @@ import { addDoc, collection, serverTimestamp } from "@firebase/firestore";
 import { getDownloadURL, ref, uploadBytesResumable } from "@firebase/storage";
 
 import { db, storage } from "../../firebase/firebase";
-import { numberValidator } from "../../utils/numberValidator";
 
 export default function ImageUpload() {
   const [imgUrl, setImgUrl] = useState(null);
@@ -147,7 +146,6 @@ export default function ImageUpload() {
               name="amount"
               type="number"
               min={1}
-              onKeyDown={numberValidator}
               className="form-control rounded-3rem my-3"
               placeholder="Tuliskan nominal Anda"
               value={amountData || ""}

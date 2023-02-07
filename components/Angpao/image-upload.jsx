@@ -6,6 +6,7 @@ import { addDoc, collection, serverTimestamp } from "@firebase/firestore";
 import { getDownloadURL, ref, uploadBytesResumable } from "@firebase/storage";
 
 import { db, storage } from "../../firebase/firebase";
+import { numberValidator } from "../../utils/numberValidator";
 
 export default function ImageUpload() {
   const [imgUrl, setImgUrl] = useState(null);
@@ -150,6 +151,7 @@ export default function ImageUpload() {
               placeholder="Tuliskan nominal Anda"
               value={amountData || ""}
               required
+              onKeyDown={(e) => numberValidator(e)}
               autoComplete="off"
               onChange={(e) => amountInput(e.target.value)}
             />

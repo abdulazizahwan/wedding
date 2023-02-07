@@ -129,7 +129,7 @@ const locale = {
     rsvp_form_phone_placeholder: "Contoh: 6285123456789",
     rsvp_form_registry_label: "Konfirmasi Kehadiran",
     rsvp_form_registry_radio_label_yes: "Ya, Saya akan hadir",
-    rsvp_form_registry_radio_label_no: "Maaf, Saya tidak bisa",
+    rsvp_form_registry_radio_label_no: "Maaf, tidak bisa",
     rsvp_form_total_attend_label: "Total orang yang akan hadir",
     rsvp_form_total_attend_placeholder: "Maksimal 2",
     rsvp_form_button_text: "Konfirmasi",

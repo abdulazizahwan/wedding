@@ -106,6 +106,7 @@ export default function Header({
               lightMode="bodyScheme"
               hideBranding={true}
               size="4|4|4"
+              listStyle="modal"
             ></AddToCalendarButton>
           </div>
         </div>

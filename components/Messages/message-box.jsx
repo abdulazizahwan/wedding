@@ -1,12 +1,12 @@
 import { useCollection } from "react-firebase-hooks/firestore";
-import { collection, getFirestore, orderBy,query } from "firebase/firestore";
+import { collection, getFirestore, orderBy, query } from "firebase/firestore";
 
-import { firebaseApp } from "../../firebase/firebase";
+import { appCheck } from "../../firebase/firebase";
 
 export default function MessageBox() {
   const [messages] = useCollection(
     query(
-      collection(getFirestore(firebaseApp), "messages"),
+      collection(getFirestore(appCheck), "messages"),
       orderBy("timestamp", "desc")
     ),
     {

@@ -8,7 +8,7 @@ import {
 } from "firebase/firestore";
 
 import { LangContext } from "../../contexts/language";
-import { firebaseApp } from "../../firebase/firebase";
+import { appCheck } from "../../firebase/firebase";
 
 export default function MessageForm({ config }) {
   useEffect(() => {
@@ -23,7 +23,7 @@ export default function MessageForm({ config }) {
   const [nameData, nameInput] = useState();
   const [messageData, messageInput] = useState();
 
-  const db = getFirestore(firebaseApp);
+  const db = getFirestore(appCheck);
 
   function validateMessageInput(nameData, messageData) {
     // Check if name is not empty

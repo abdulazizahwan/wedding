@@ -107,6 +107,7 @@ export default function Header({
               hideBranding={true}
               size="4|4|4"
               listStyle="modal"
+              trigger="click"
             ></AddToCalendarButton>
           </div>
         </div>

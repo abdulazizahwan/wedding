@@ -1,10 +1,12 @@
 /* eslint-disable @next/next/no-img-element */
+import Image from "next/image";
+
 import CurvedSeparator from "./curved-separator.svg";
 
 export default function Teaser({ title, subtitle, videoId, background }) {
   return (
     <section id="teaser" className="gradient-overlay">
-      <img
+      <Image
         className="bg-image"
         loading="lazy"
         src={background}

@@ -11,6 +11,8 @@ export default function Teaser({ title, subtitle, videoId, background }) {
         loading="lazy"
         src={background}
         alt="Image of Teaser Background"
+        fill
+        placeholder="blur"
       />
       <div className="container spacer-double-lg">
         <div

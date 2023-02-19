@@ -1,5 +1,6 @@
 import { useEffect, useState } from "react";
 import { Toaster } from "react-hot-toast";
+import { Analytics } from '@vercel/analytics/react';
 
 import { LangProvider } from "../contexts/language";
 
@@ -23,6 +24,7 @@ function MyApp({ Component, pageProps }) {
         <LangProvider>
             <Component {...pageProps} />
             <Toaster />
+            <Analytics />
         </LangProvider>
     );
 }

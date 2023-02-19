@@ -106,7 +106,7 @@
     fill: #ffffff;
 }
 
-.navbar-expand-lg .navbar-logo {}
+/* .navbar-expand-lg .navbar-logo {} */
 
 .header-navbar {
     padding: 0;
@@ -133,9 +133,9 @@
     }
 }
 
-.countdown {
-    /* flex-wrap: inherit; */
-}
+/* .countdown {
+    flex-wrap: inherit;
+} */
 
 .countdown span.label {
     font-size: 0.85rem;
@@ -200,16 +200,16 @@
     text-align: right;
 }
 
-.story li:not(:last-child):after {
-    /* content: "";
+/* .story li:not(:last-child):after {
+    content: "";
   display: block;
   position: absolute;
   top: 4.357rem;
   width: 1px;
   height: 3rem;
   background: #bfbbb8;
-  opacity: 0.5; */
-}
+  opacity: 0.5;
+} */
 
 .story li:not(:last-child) {
     position: relative;

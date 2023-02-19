@@ -287,6 +287,7 @@ button,
 html [type="button"],
 [type="reset"],
 [type="submit"] {
+    appearance: button;
     -webkit-appearance: button;
 }
 
@@ -308,6 +309,7 @@ input[type="date"],
 input[type="time"],
 input[type="datetime-local"],
 input[type="month"] {
+    appearance: listbox;
     -webkit-appearance: listbox;
 }
 
@@ -346,6 +348,7 @@ progress {
 
 [type="search"] {
     outline-offset: -2px;
+    appearance: none;
     -webkit-appearance: none;
 }
 
@@ -2805,8 +2808,8 @@ select.form-control-lg:not([size]):not([multiple]),
         border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
 }
 
-.btn:hover,
-.btn:focus {}
+/* .btn:hover,
+.btn:focus {} */
 
 .btn:focus,
 .btn.focus {
@@ -5987,6 +5990,7 @@ button.close {
     padding: 0;
     background-color: transparent;
     border: 0;
+    appearance: none;
     -webkit-appearance: none;
 }
 

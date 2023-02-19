@@ -1,12 +1,12 @@
 const data = {
     headerBackground: "https://drive.google.com/uc?id=1LI5tE-K4MsgpZFWGrrk8u8UQDfHVhNs-",
     dateCountdown: "2023-06-05T08:00:00",
-    dateMaskPicture: "https://drive.google.com/uc?id=1xc0JcR4n4dvsm3X3UoJXMdqjapKZvx30",
-    eventBackground: "https://drive.google.com/uc?id=1WikcJKKLipHPMvBdhcTkWpZ_lF3mzBhy",
-    eventBackground2: "https://drive.google.com/uc?id=1POWLIr9L4Gvd8gcpJlWohRGPMMWBgt2e",
+    dateMaskPicture: "https://drive.google.com/uc?id=1m7fZut0hFdPfGiX7Ji7_rq3ym5hCrA_l",
+    eventBackground: "https://drive.google.com/uc?id=1W8w78mzqYyljBtskhczc32ta-aZeZUqt",
+    eventBackground2: "https://drive.google.com/uc?id=13HjMw8k7Ve3TvnrB79h1fjVGecm6ddg3",
     liveStreamSource: "xwNntzPF_Yo",
     videoSource: "Ig35nJGluDk",
-    videoBackground: "https://drive.google.com/uc?id=1POWLIr9L4Gvd8gcpJlWohRGPMMWBgt2e",
+    videoBackground: "https://drive.google.com/uc?id=13HjMw8k7Ve3TvnrB79h1fjVGecm6ddg3",
     mapLocation: "https://goo.gl/maps/Najk9gxkyKr4MSvp8",
 
     gallery: [

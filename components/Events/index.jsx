@@ -1,4 +1,6 @@
 /* eslint-disable @next/next/no-img-element */
+import Image from "next/image";
+
 import { scrollToAnchor } from "../../utils/helpers";
 
 import AkadNikah from "./akad-nikah";
@@ -32,10 +34,13 @@ export default function Events({
         <div className="row">
           <div className="col-lg-8 d-flex mb-4 mb-lg-0 display-state">
             <div className="card card-icon-2 card-body justify-content-between rounded-1rem">
-              <img
+              <Image
                 className="bg-image"
-                loading="lazy"
                 src={background}
+                layout="fill"
+                loading="lazy"
+                placeholder="blur"
+                blurDataURL={background}
                 alt="Image of Akad Nikah"
               />
             </div>
@@ -46,10 +51,13 @@ export default function Events({
           <Reception {...receptionData} />
           <div className="col-lg-8 d-flex mb-4 mb-lg-0 display-state">
             <div className="card card-icon-2 card-body justify-content-between rounded-1rem">
-              <img
+              <Image
                 className="bg-image"
-                loading="lazy"
                 src={background2}
+                layout="fill"
+                loading="lazy"
+                placeholder="blur"
+                blurDataURL={background2}
                 alt="Image of Resepsi"
               />
             </div>

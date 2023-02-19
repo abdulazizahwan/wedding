@@ -2,6 +2,7 @@
 import { useEffect, useState } from "react";
 import { CopyToClipboard } from "react-copy-to-clipboard";
 import toast from "react-hot-toast";
+import Image from "next/image";
 import Link from "next/link";
 import { useRouter } from "next/router";
 
@@ -58,10 +59,15 @@ export default function Transfer({
               <h3 className="mb-0">ShopeePay</h3>
               <h5 className="mb-0">ABD AZIZ</h5>
               <h4 className="mb-0">085******335</h4>
-              <img
+              <Image
                 alt="ShopeePay"
                 className="rounded img-fluid"
                 src="/angpao/angpao_shopeepay.png"
+                width={100}
+                height={100}
+                layout="responsive"
+                placeholder="blur"
+                blurDataURL="/angpao/angpao_shopeepay.png"
               />
               <div className="badge-overlap mt-1">
                 <span className="badge rounded-1rem badge-shopee">
@@ -85,10 +91,15 @@ export default function Transfer({
               <h3 className="mb-0">GoPay</h3>
               <h5 className="mb-0">ABD AZIZ</h5>
               <h4 className="mb-0">085******335</h4>
-              <img
+              <Image
                 alt="GoPay"
                 className="rounded img-fluid"
                 src="/angpao/angpao_gopay.png"
+                width={100}
+                height={100}
+                layout="responsive"
+                placeholder="blur"
+                blurDataURL="/angpao/angpao_gopay.png"
               />
               <div className="badge-overlap mt-1">
                 <span className="badge rounded-1rem badge-gopay">
@@ -112,10 +123,15 @@ export default function Transfer({
               <h3 className="mb-0">OVO</h3>
               <h5 className="mb-0">ABD AZIZ</h5>
               <h4 className="mb-0">085******335</h4>
-              <img
+              <Image
                 alt="OVO"
                 className="rounded img-fluid"
                 src="/angpao/angpao_ovo.png"
+                width={100}
+                height={100}
+                layout="responsive"
+                placeholder="blur"
+                blurDataURL="/angpao/angpao_ovo.png"
               />
               <div className="badge-overlap mt-1">
                 <span className="badge rounded-1rem badge-ovo">
@@ -139,10 +155,15 @@ export default function Transfer({
               <h3 className="mb-0">BNI</h3>
               <h5 className="mb-0">ABD AZIZ</h5>
               <h4 className="mb-0">123***0572</h4>
-              <img
+              <Image
                 alt="BNI"
                 className="rounded img-fluid"
                 src="/angpao/angpao_bni.png"
+                width={100}
+                height={100}
+                layout="responsive"
+                placeholder="blur"
+                blurDataURL="/angpao/angpao_bni.png"
               />
               <div className="badge-overlap mt-1">
                 <span className="badge rounded-1rem badge-bni">BANK: BNI</span>
@@ -165,10 +186,15 @@ export default function Transfer({
               <h3 className="mb-0">BRI</h3>
               <h5 className="mb-0">ABD AZIZ</h5>
               <h4 className="mb-0">127****9501</h4>
-              <img
+              <Image
                 alt="BRI"
                 className="rounded img-fluid"
                 src="/angpao/angpao_bri.png"
+                width={100}
+                height={100}
+                layout="responsive"
+                placeholder="blur"
+                blurDataURL="/angpao/angpao_bri.png"
               />
               <div className="badge-overlap mt-1">
                 <span className="badge rounded-1rem badge-bri">BANK: BRI</span>
@@ -190,10 +216,15 @@ export default function Transfer({
               <h3 className="mb-0">Blu BCA</h3>
               <h5 className="mb-0">ABD AZIZ</h5>
               <h4 className="mb-0">0026***7917</h4>
-              <img
+              <Image
                 alt="Blu BCA"
                 className="rounded img-fluid"
                 src="/angpao/angpao_blu.png"
+                width={100}
+                height={100}
+                layout="responsive"
+                placeholder="blur"
+                blurDataURL="/angpao/angpao_blu.png"
               />
               <div className="badge-overlap mt-1">
                 <span className="badge rounded-1rem badge-blu">
@@ -217,10 +248,15 @@ export default function Transfer({
               <h3 className="mb-0">JAGO</h3>
               <h5 className="mb-0">ABD AZIZ</h5>
               <h4 className="mb-0">1035***5538</h4>
-              <img
+              <Image
                 alt="JAGO"
                 className="rounded img-fluid"
                 src="/angpao/angpao_jago.png"
+                width={100}
+                height={100}
+                layout="responsive"
+                placeholder="blur"
+                blurDataURL="/angpao/angpao_jago.png"
               />
               <div className="badge-overlap mt-1">
                 <span className="badge rounded-1rem badge-jago">
@@ -244,10 +280,15 @@ export default function Transfer({
               <h3 className="mb-0">Jenius</h3>
               <h5 className="mb-0">ABD AZIZ</h5>
               <h4 className="mb-0">902*****866</h4>
-              <img
+              <Image
                 alt="Jenius"
                 className="rounded img-fluid"
                 src="/angpao/angpao_jenius.png"
+                width={100}
+                height={100}
+                layout="responsive"
+                placeholder="blur"
+                blurDataURL="/angpao/angpao_jenius.png"
               />
               <div className="badge-overlap mt-1">
                 <span className="badge rounded-1rem badge-jenius">
@@ -272,10 +313,15 @@ export default function Transfer({
               <h3 className="mb-0">LinkAja</h3>
               <h5 className="mb-0">ABD AZIZ</h5>
               <h4 className="mb-0">085******335</h4>
-              <img
+              <Image
                 alt="LinkAja"
                 className="rounded img-fluid"
                 src="/angpao/angpao_linkaja.png"
+                width={100}
+                height={100}
+                layout="responsive"
+                placeholder="blur"
+                blurDataURL="/angpao/angpao_linkaja.png"
               />
               <div className="badge-overlap mt-1">
                 <span className="badge rounded-1rem badge-linkaja">
@@ -298,10 +344,15 @@ export default function Transfer({
               <h3 className="mb-0">PayPal</h3>
               <h5 className="mb-0">ABD AZIZ</h5>
               <h4 className="mb-0">PayPal.Me</h4>
-              <img
+              <Image
                 alt="PayPal"
                 className="rounded img-fluid"
                 src="/angpao/angpao_paypal.png"
+                width={100}
+                height={100}
+                layout="responsive"
+                placeholder="blur"
+                blurDataURL="/angpao/angpao_paypal.png"
               />
               <div className="badge-overlap mt-1">
                 <span className="badge rounded-1rem badge-paypal">PAYPAL</span>
@@ -323,10 +374,15 @@ export default function Transfer({
               <h3 className="mb-0">Saweria</h3>
               <h5 className="mb-0">ABD AZIZ</h5>
               <h4 className="mb-0">Saweria.co</h4>
-              <img
+              <Image
                 alt="GoPay"
                 className="rounded img-fluid"
                 src="/angpao/angpao_saweria.png"
+                width={100}
+                height={100}
+                layout="responsive"
+                placeholder="blur"
+                blurDataURL="/angpao/angpao_saweria.png"
               />
               <div className="badge-overlap mt-1">
                 <span className="badge rounded-1rem badge-saweria">
@@ -350,10 +406,15 @@ export default function Transfer({
               <h3 className="mb-0">Trakteer</h3>
               <h5 className="mb-0">ABD AZIZ</h5>
               <h4 className="mb-0">Trakteer.id</h4>
-              <img
+              <Image
                 alt="Trakteer"
                 className="rounded img-fluid"
                 src="/angpao/angpao_trakteer.png"
+                width={100}
+                height={100}
+                layout="responsive"
+                placeholder="blur"
+                blurDataURL="/angpao/angpao_trakteer.png"
               />
               <div className="badge-overlap mt-1">
                 <span className="badge rounded-1rem badge-trakteer">
@@ -376,7 +437,7 @@ export default function Transfer({
         <ImageUpload />
 
         <div className="row">
-          <div className="col">
+          <div className="col"></div>
             <div className="text-center mt-3 pt-5">
               <Link
                 href={{

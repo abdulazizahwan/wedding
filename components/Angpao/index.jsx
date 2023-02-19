@@ -437,7 +437,7 @@ export default function Transfer({
         <ImageUpload />
 
         <div className="row">
-          <div className="col"></div>
+          <div className="col">
             <div className="text-center mt-3 pt-5">
               <Link
                 href={{

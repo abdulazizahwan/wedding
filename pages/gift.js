@@ -56,7 +56,7 @@ export default function GiftPage() {
                 <div>
                     {isLoading ? <div className="loader" /> : null}
                     <iframe
-                        src="https://www.wishsite.net/embed/idmeod45"
+                        src="https://www.wishsite.net/embed/c8c27wvm"
                         width="100%"
                         height="auto"
                         style={{

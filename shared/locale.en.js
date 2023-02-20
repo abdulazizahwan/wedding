@@ -125,12 +125,12 @@ const locale = {
     rsvp_form_name_label: "Your Name",
     rsvp_form_name_placeholder: "Your Full Name",
     rsvp_form_phone_label: "Your Mobile Phone Number",
-    rsvp_form_phone_placeholder: "Example: 6285277665544",
+    rsvp_form_phone_placeholder: "Example: 6285123456789",
     rsvp_form_registry_label: "Attendance Confirmation",
     rsvp_form_registry_radio_label_yes: "Yes, I will be there",
     rsvp_form_registry_radio_label_no: "Sorry, I can't come",
     rsvp_form_total_attend_label: "Total people",
-    rsvp_form_total_attend_placeholder: "Maximum 2",
+    rsvp_form_total_attend_placeholder: "Write the number of people",
     rsvp_form_button_text: "Confirm ",
     rsvp_form_submission_info: "",
 
@@ -205,7 +205,7 @@ const locale = {
     toast_error_name_validation: "Name couldn't be empty!",
     toast_error_phone_validation: "Invalid Indonesian phone number.\nShould start with 62.",
     toast_error_attend_validation: "Attend must be either true or false",
-    toast_error_attend_number_validation: "Attend number must be between 1 and 2",
+    toast_error_attend_number_validation: "Attend couldn't be empty!",
     toast_error_message_validation: "Message couldn't be empty!",
 };
 

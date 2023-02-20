@@ -9,7 +9,7 @@ export default function RsvpForm({ config }) {
   const [nameData, nameInput] = useState();
   const [phoneData, phoneInput] = useState();
   const [attendData, attendInput] = useState();
-  const [attendNumberData, attendNumberInput] = useState();
+  const [attendNumberData, attendNumberInput] = useState("0");
 
   const [state] = useContext(LangContext);
   const { locale } = state;
@@ -37,8 +37,10 @@ export default function RsvpForm({ config }) {
     }
 
     // Check if number is between 1 and 2
-    if (attendNumberData < 1 || attendNumberData > 2) {
-      return locale.toast.error_attend_number_validation;
+    if (attendData === true) {
+      if (attendNumberData < 1 || attendNumberData > 10) {
+        return locale.toast.error_attend_number_validation;
+      }
     }
 
     return "";
@@ -66,7 +68,7 @@ export default function RsvpForm({ config }) {
         nameInput("");
         phoneInput("");
         attendInput("");
-        attendNumberInput("");
+        attendNumberInput("0");
 
         for (let i = 0; i < radioButtons.length; i++) {
           radioButtons[i].checked = false;
@@ -83,7 +85,6 @@ export default function RsvpForm({ config }) {
         position: "top-center",
         icon: "😔",
       });
-
     }
   }
 
@@ -168,22 +169,25 @@ export default function RsvpForm({ config }) {
             </div>
           </div>
         </div>
+        {attendData && (
+          <div className="form-group">
+            <label className="text-white">{config.total_attend_label}</label>
+            <input
+              name="number"
+              type="number"
+              id="rsvpNumber"
+              min="1"
+              max="10"
+              maxLength={2}
+              autoComplete="off"
+              className="form-control form-control rounded-3rem"
+              placeholder={config.total_attend_placeholder}
+              value={attendNumberData || ""}
+              onChange={(e) => attendNumberInput(e.target.value)}
+            />
+          </div>
+        )}
         <div className="form-group">
-          <label className="text-white">{config.total_attend_label}</label>
-          <input
-            name="number"
-            type="number"
-            id="rsvpNumber"
-            min="1"
-            max="2"
-            maxLength={1}
-            required
-            autoComplete="off"
-            className="form-control form-control rounded-3rem"
-            placeholder={config.total_attend_placeholder}
-            value={attendNumberData || ""}
-            onChange={(e) => attendNumberInput(e.target.value)}
-          />
           <button
             className="btn btn-block btn-primary rounded-3rem my-5"
             type="submit"

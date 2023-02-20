@@ -131,7 +131,7 @@ const locale = {
     rsvp_form_registry_radio_label_yes: "Ya, Saya akan hadir",
     rsvp_form_registry_radio_label_no: "Maaf, tidak bisa",
     rsvp_form_total_attend_label: "Total orang yang akan hadir",
-    rsvp_form_total_attend_placeholder: "Maksimal 2",
+    rsvp_form_total_attend_placeholder: "Tuliskan jumlah orang yang akan hadir",
     rsvp_form_button_text: "Konfirmasi",
     rsvp_form_submission_info: "",
 
@@ -206,7 +206,7 @@ const locale = {
     toast_error_name_validation: "Nama tidak boleh kosong!",
     toast_error_phone_validation: "Nomor HP tidak sesuai format!\nHarus dimulai dengan 62.",
     toast_error_attend_validation: "Status kehadiran tidak boleh kosong!",
-    toast_error_attend_number_validation: "Jumlah tamu tidak boleh kosong!\nMaksimal 2 orang.",
+    toast_error_attend_number_validation: "Jumlah tamu tidak boleh kosong!",
     toast_error_message_validation: "Pesan tidak boleh kosong!",
 };
 

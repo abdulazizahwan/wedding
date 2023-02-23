@@ -8857,6 +8857,13 @@ button.bg-dark:focus {
     margin-left: auto !important;
 }
 
+@media (max-width: 575.98px) {
+    .px-sm-6 {
+        padding-right: 4rem !important;
+        padding-left: 4rem !important;
+    }
+}
+
 @media (min-width: 576px) {
     .m-sm-0 {
         margin: 0 !important;
@@ -9179,8 +9186,7 @@ button.bg-dark:focus {
         padding-top: 4rem !important;
     }
 
-    .pr-sm-6,
-    .px-sm-6 {
+    .pr-sm-6 {
         padding-right: 4rem !important;
     }
 
@@ -9189,8 +9195,7 @@ button.bg-dark:focus {
         padding-bottom: 4rem !important;
     }
 
-    .pl-sm-6,
-    .px-sm-6 {
+    .pl-sm-6 {
         padding-left: 4rem !important;
     }
 

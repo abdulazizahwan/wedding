@@ -193,7 +193,7 @@ const locale = {
         "Izinkan kami mengatur kapasitas tamu di dalam ruangan pada saat berlangsungnya acara.",
     prokes_4_item_icon: "/img",
 
-    credit_header: "Dengan ♥ dari Tegal & Pekalongan",
+    credit_header: "Penuh ♥ dari Tegal & Pekalongan",
     credit_title: "Dewi & Aziz",
     credit_subtitle: "Senin, 05 Juni 2023",
 

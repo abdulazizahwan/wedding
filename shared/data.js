@@ -12,43 +12,43 @@ const data = {
     gallery: [
         {
             className: "col-lg-2 col-md-6 align-self-end mb-3",
-            thumbnail: "https://drive.google.com/uc?id=1uyJD5T6YKHKF2HITci2PpYg0n-T1kC7t",
-            image: "https://drive.google.com/uc?id=1uyJD5T6YKHKF2HITci2PpYg0n-T1kC7t",
+            thumbnail: "https://drive.google.com/uc?id=1LI5tE-K4MsgpZFWGrrk8u8UQDfHVhNs-",
+            image: "https://drive.google.com/uc?id=1LI5tE-K4MsgpZFWGrrk8u8UQDfHVhNs-",
         },
         {
             className: "col-lg-3 col-md-6 align-self-end mb-3",
-            thumbnail: "https://drive.google.com/uc?id=1uyJD5T6YKHKF2HITci2PpYg0n-T1kC7t",
-            image: "https://drive.google.com/uc?id=1uyJD5T6YKHKF2HITci2PpYg0n-T1kC7t",
+            thumbnail: "https://drive.google.com/uc?id=1LI5tE-K4MsgpZFWGrrk8u8UQDfHVhNs-",
+            image: "https://drive.google.com/uc?id=1LI5tE-K4MsgpZFWGrrk8u8UQDfHVhNs-",
         },
         {
             className: "col-lg-5 col-md-6 align-self-end mb-3",
-            thumbnail: "https://drive.google.com/uc?id=1WikcJKKLipHPMvBdhcTkWpZ_lF3mzBhy",
-            image: "https://drive.google.com/uc?id=1WikcJKKLipHPMvBdhcTkWpZ_lF3mzBhy",
+            thumbnail: "https://drive.google.com/uc?id=1LI5tE-K4MsgpZFWGrrk8u8UQDfHVhNs-",
+            image: "https://drive.google.com/uc?id=1LI5tE-K4MsgpZFWGrrk8u8UQDfHVhNs-",
         },
         {
             className: "col-md-6 mb-3",
-            thumbnail: "https://drive.google.com/uc?id=1uuRRvlkK2ZWkRAKdiNr06Ba3vpVnfeh3",
-            image: "https://drive.google.com/uc?id=1uyJD5T6YKHKF2HITci2PpYg0n-T1kC7t",
+            thumbnail: "https://drive.google.com/uc?id=1LI5tE-K4MsgpZFWGrrk8u8UQDfHVhNs-",
+            image: "https://drive.google.com/uc?id=1LI5tE-K4MsgpZFWGrrk8u8UQDfHVhNs-",
         },
         {
             className: "col-md-6 mb-3",
-            thumbnail: "https://drive.google.com/uc?id=1WSpn0GDoUDtrRnoQ6qAilcMXRaCEAueM",
-            image: "https://drive.google.com/uc?id=1uyJD5T6YKHKF2HITci2PpYg0n-T1kC7t",
+            thumbnail: "https://drive.google.com/uc?id=1LI5tE-K4MsgpZFWGrrk8u8UQDfHVhNs-",
+            image: "https://drive.google.com/uc?id=1LI5tE-K4MsgpZFWGrrk8u8UQDfHVhNs-",
         },
         {
             className: "col-lg-5 col-md-6 mb-3",
-            thumbnail: "https://drive.google.com/uc?id=1WikcJKKLipHPMvBdhcTkWpZ_lF3mzBhy",
-            image: "https://drive.google.com/uc?id=1WikcJKKLipHPMvBdhcTkWpZ_lF3mzBhy",
+            thumbnail: "https://drive.google.com/uc?id=1LI5tE-K4MsgpZFWGrrk8u8UQDfHVhNs-",
+            image: "https://drive.google.com/uc?id=1LI5tE-K4MsgpZFWGrrk8u8UQDfHVhNs-",
         },
         {
             className: "col-lg-3 col-md-6 mb-3",
-            thumbnail: "https://drive.google.com/uc?id=1uyJD5T6YKHKF2HITci2PpYg0n-T1kC7t",
-            image: "https://drive.google.com/uc?id=1uyJD5T6YKHKF2HITci2PpYg0n-T1kC7t",
+            thumbnail: "https://drive.google.com/uc?id=1LI5tE-K4MsgpZFWGrrk8u8UQDfHVhNs-",
+            image: "https://drive.google.com/uc?id=1LI5tE-K4MsgpZFWGrrk8u8UQDfHVhNs-",
         },
         {
             className: "col-lg-2 col-md-6 mb-3",
-            thumbnail: "https://drive.google.com/uc?id=1uyJD5T6YKHKF2HITci2PpYg0n-T1kC7t",
-            image: "https://drive.google.com/uc?id=1uyJD5T6YKHKF2HITci2PpYg0n-T1kC7t",
+            thumbnail: "https://drive.google.com/uc?id=1LI5tE-K4MsgpZFWGrrk8u8UQDfHVhNs-",
+            image: "https://drive.google.com/uc?id=1LI5tE-K4MsgpZFWGrrk8u8UQDfHVhNs-",
         },
     ]
 };

@@ -10,7 +10,13 @@ module.exports = {
         return config;
     },
     images: {
-        domains: ['drive.google.com', 'doc-0k-88-docs.googleusercontent.com', 'lh3.googleusercontent.com',],
+        domains: [
+            'drive.google.com',
+            'lh3.googleusercontent.com',
+            'lh4.googleusercontent.com',
+            'lh5.googleusercontent.com',
+            'lh6.googleusercontent.com'
+        ],
     },
 };
 

@@ -10,7 +10,7 @@ export default function Teaser({ title, subtitle, videoId, background }) {
         className="bg-image"
         src={background}
         layout="fill"
-        loading="lazy"
+        loading="eager"
         placeholder="blur"
         blurDataURL={background}
         alt="Image of Teaser Background"

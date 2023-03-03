@@ -10,6 +10,7 @@ module.exports = {
         return config;
     },
     images: {
+        deviceSizes: [320, 420, 768, 1024, 1200],
         domains: [
             'drive.google.com',
             'lh3.googleusercontent.com',

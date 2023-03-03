@@ -1,4 +1,6 @@
 /* eslint-disable @next/next/no-img-element */
+import Image from "next/image";
+
 export default function Credit({ title, subtitle, dates }) {
   return (
     <section
@@ -39,9 +41,14 @@ export default function Credit({ title, subtitle, dates }) {
           paddingTop: "40px",
         }}
       >
-        <img
+        <Image
           style={{ width: "100%" }}
-          src="/img/blue-flower-footer.png"
+          layout="responsive"
+          width={924}
+          height={198}
+          loading="lazy"
+          blurDataURL="/img/blue-flower-footer.webp"
+          src="/img/blue-flower-footer.webp"
           alt=""
         />
       </div>

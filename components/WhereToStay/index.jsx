@@ -1,4 +1,6 @@
 /* eslint-disable @next/next/no-img-element */
+import Image from "next/image";
+
 export default function WhereToStay({
   title,
   subtitle,
@@ -22,9 +24,14 @@ export default function WhereToStay({
           {accommodations.map((acc, i) => {
             return (
               <div className="col-md-4 mb-3 mb-md-0" key={i}>
-                <img
+                <Image
                   src={acc.picture}
                   alt="Image"
+                  layout="responsive"
+                  width={160}
+                  height={90}
+                  placeholder="blur"
+                  blurDataURL={acc.picture}
                   className="rounded-1rem img-fluid"
                 />
                 <div className="badge-overlap">

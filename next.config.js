@@ -13,6 +13,7 @@ module.exports = {
         deviceSizes: [320, 420, 768, 1024, 1200],
         domains: [
             'drive.google.com',
+            'firebasestorage.googleapis.com',
             'lh3.googleusercontent.com',
             'lh4.googleusercontent.com',
             'lh5.googleusercontent.com',

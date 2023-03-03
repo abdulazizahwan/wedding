@@ -18,5 +18,13 @@ module.exports = {
             'lh6.googleusercontent.com'
         ],
     },
+    async rewrites() {
+        return [
+            {
+                source: '/robots.txt',
+                destination: '/robots',
+            },
+        ];
+    },
 };
 

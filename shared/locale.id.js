@@ -142,7 +142,7 @@ const locale = {
     acco_items: [
         {
             picture:
-                "https://drive.google.com/uc?id=1lj6f7ElQtSlkjz8eg0zucwuJqLo8Y9O3",
+                "https://drive.google.com/uc?id=13rYSwCrf5oFtelI5BmWKwxRUk-wZqAPX",
             type: "Hotel",
             place: "PrimeBiz Hotel",
             address: "Jl. Mayjend Sutoyo No.25, Pekauman",
@@ -151,7 +151,7 @@ const locale = {
         },
         {
             picture:
-                "https://drive.google.com/uc?id=1CPaYHmHJ9D7tqXrDmwL_WAUYopbidFl3",
+                "https://drive.google.com/uc?id=1DFAgET5sU1vcmqvD3CdmPZgVvW-tc-wU",
             type: "Hotel",
             place: "Premiere Hotel Tegal",
             address: "Jl. Yos Sudarso No.10, Mintaragen",
@@ -160,7 +160,7 @@ const locale = {
         },
         {
             picture:
-                "https://drive.google.com/uc?id=1-FV-0Vp2oWz5qcutc3oBH_JXLpbr8pGA",
+                "https://drive.google.com/uc?id=1p47EIS1T6Q2Njz7z12yxED6MuzVdZReT",
             type: "Hotel",
             place: "KHAS Tegal Hotel",
             address: "Jl. Gajah Mada No.5, Mintaragen",

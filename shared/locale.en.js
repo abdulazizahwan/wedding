@@ -141,7 +141,7 @@ const locale = {
     acco_items: [
         {
             picture:
-                "https://drive.google.com/uc?id=13rYSwCrf5oFtelI5BmWKwxRUk-wZqAPX",
+                "https://firebasestorage.googleapis.com/v0/b/next-wedding-app.appspot.com/o/static%2F220b0r000000h01zdC2FF_R_960_660_R5_D.webp?alt=media&token=7ac70543-b168-4ea7-94b2-157f55a4643b",
             type: "Hotel",
             place: "PrimeBiz Hotel",
             address: "25th Mayjend Sutoyo Street, Pekauman",
@@ -150,7 +150,7 @@ const locale = {
         },
         {
             picture:
-                "https://drive.google.com/uc?id=1DFAgET5sU1vcmqvD3CdmPZgVvW-tc-wU",
+                "https://firebasestorage.googleapis.com/v0/b/next-wedding-app.appspot.com/o/static%2FAF1QipPdN9fF-XgeEEJaFxZr-iKZ48JV5T3J_gzlP5Dm%3Dw960-.webp?alt=media&token=cacb92ea-777a-4914-911b-3f090272825f",
             type: "Hotel",
             place: "Premiere Hotel Tegal",
             address: "10th Yos Sudarso Street, Mintaragen",
@@ -159,7 +159,7 @@ const locale = {
         },
         {
             picture:
-                "https://drive.google.com/uc?id=1p47EIS1T6Q2Njz7z12yxED6MuzVdZReT",
+                "https://firebasestorage.googleapis.com/v0/b/next-wedding-app.appspot.com/o/static%2Fgedung_utama.webp?alt=media&token=46787dbe-a303-4daa-ae42-12676665e276",
             type: "Hotel",
             place: "KHAS Tegal Hotel",
             address: "5th Gajah Mada Street, Mintaragen",

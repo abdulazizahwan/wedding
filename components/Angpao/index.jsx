@@ -62,12 +62,12 @@ export default function Transfer({
               <Image
                 alt="ShopeePay"
                 className="rounded img-fluid"
-                src="/angpao/angpao_shopeepay.png"
+                src="/angpao/angpao_shopeepay.webp"
                 width={100}
                 height={100}
                 layout="responsive"
                 placeholder="blur"
-                blurDataURL="/angpao/angpao_shopeepay.png"
+                blurDataURL="/angpao/angpao_shopeepay.webp"
               />
               <div className="badge-overlap mt-1">
                 <span className="badge rounded-1rem badge-shopee">
@@ -94,12 +94,12 @@ export default function Transfer({
               <Image
                 alt="GoPay"
                 className="rounded img-fluid"
-                src="/angpao/angpao_gopay.png"
+                src="/angpao/angpao_gopay.webp"
                 width={100}
                 height={100}
                 layout="responsive"
                 placeholder="blur"
-                blurDataURL="/angpao/angpao_gopay.png"
+                blurDataURL="/angpao/angpao_gopay.webp"
               />
               <div className="badge-overlap mt-1">
                 <span className="badge rounded-1rem badge-gopay">
@@ -126,12 +126,12 @@ export default function Transfer({
               <Image
                 alt="OVO"
                 className="rounded img-fluid"
-                src="/angpao/angpao_ovo.png"
+                src="/angpao/angpao_ovo.webp"
                 width={100}
                 height={100}
                 layout="responsive"
                 placeholder="blur"
-                blurDataURL="/angpao/angpao_ovo.png"
+                blurDataURL="/angpao/angpao_ovo.webp"
               />
               <div className="badge-overlap mt-1">
                 <span className="badge rounded-1rem badge-ovo">
@@ -158,12 +158,12 @@ export default function Transfer({
               <Image
                 alt="BNI"
                 className="rounded img-fluid"
-                src="/angpao/angpao_bni.png"
+                src="/angpao/angpao_bni.webp"
                 width={100}
                 height={100}
                 layout="responsive"
                 placeholder="blur"
-                blurDataURL="/angpao/angpao_bni.png"
+                blurDataURL="/angpao/angpao_bni.webp"
               />
               <div className="badge-overlap mt-1">
                 <span className="badge rounded-1rem badge-bni">BANK: BNI</span>
@@ -189,12 +189,12 @@ export default function Transfer({
               <Image
                 alt="BRI"
                 className="rounded img-fluid"
-                src="/angpao/angpao_bri.png"
+                src="/angpao/angpao_bri.webp"
                 width={100}
                 height={100}
                 layout="responsive"
                 placeholder="blur"
-                blurDataURL="/angpao/angpao_bri.png"
+                blurDataURL="/angpao/angpao_bri.webp"
               />
               <div className="badge-overlap mt-1">
                 <span className="badge rounded-1rem badge-bri">BANK: BRI</span>
@@ -219,12 +219,12 @@ export default function Transfer({
               <Image
                 alt="Blu BCA"
                 className="rounded img-fluid"
-                src="/angpao/angpao_blu.png"
+                src="/angpao/angpao_blu.webp"
                 width={100}
                 height={100}
                 layout="responsive"
                 placeholder="blur"
-                blurDataURL="/angpao/angpao_blu.png"
+                blurDataURL="/angpao/angpao_blu.webp"
               />
               <div className="badge-overlap mt-1">
                 <span className="badge rounded-1rem badge-blu">
@@ -251,12 +251,12 @@ export default function Transfer({
               <Image
                 alt="JAGO"
                 className="rounded img-fluid"
-                src="/angpao/angpao_jago.png"
+                src="/angpao/angpao_jago.webp"
                 width={100}
                 height={100}
                 layout="responsive"
                 placeholder="blur"
-                blurDataURL="/angpao/angpao_jago.png"
+                blurDataURL="/angpao/angpao_jago.webp"
               />
               <div className="badge-overlap mt-1">
                 <span className="badge rounded-1rem badge-jago">
@@ -283,12 +283,12 @@ export default function Transfer({
               <Image
                 alt="Jenius"
                 className="rounded img-fluid"
-                src="/angpao/angpao_jenius.png"
+                src="/angpao/angpao_jenius.webp"
                 width={100}
                 height={100}
                 layout="responsive"
                 placeholder="blur"
-                blurDataURL="/angpao/angpao_jenius.png"
+                blurDataURL="/angpao/angpao_jenius.webp"
               />
               <div className="badge-overlap mt-1">
                 <span className="badge rounded-1rem badge-jenius">
@@ -316,12 +316,12 @@ export default function Transfer({
               <Image
                 alt="LinkAja"
                 className="rounded img-fluid"
-                src="/angpao/angpao_linkaja.png"
+                src="/angpao/angpao_linkaja.webp"
                 width={100}
                 height={100}
                 layout="responsive"
                 placeholder="blur"
-                blurDataURL="/angpao/angpao_linkaja.png"
+                blurDataURL="/angpao/angpao_linkaja.webp"
               />
               <div className="badge-overlap mt-1">
                 <span className="badge rounded-1rem badge-linkaja">
@@ -347,12 +347,12 @@ export default function Transfer({
               <Image
                 alt="PayPal"
                 className="rounded img-fluid"
-                src="/angpao/angpao_paypal.png"
+                src="/angpao/angpao_paypal.webp"
                 width={100}
                 height={100}
                 layout="responsive"
                 placeholder="blur"
-                blurDataURL="/angpao/angpao_paypal.png"
+                blurDataURL="/angpao/angpao_paypal.webp"
               />
               <div className="badge-overlap mt-1">
                 <span className="badge rounded-1rem badge-paypal">PAYPAL</span>
@@ -377,12 +377,12 @@ export default function Transfer({
               <Image
                 alt="GoPay"
                 className="rounded img-fluid"
-                src="/angpao/angpao_saweria.png"
+                src="/angpao/angpao_saweria.webp"
                 width={100}
                 height={100}
                 layout="responsive"
                 placeholder="blur"
-                blurDataURL="/angpao/angpao_saweria.png"
+                blurDataURL="/angpao/angpao_saweria.webp"
               />
               <div className="badge-overlap mt-1">
                 <span className="badge rounded-1rem badge-saweria">
@@ -409,12 +409,12 @@ export default function Transfer({
               <Image
                 alt="Trakteer"
                 className="rounded img-fluid"
-                src="/angpao/angpao_trakteer.png"
+                src="/angpao/angpao_trakteer.webp"
                 width={100}
                 height={100}
                 layout="responsive"
                 placeholder="blur"
-                blurDataURL="/angpao/angpao_trakteer.png"
+                blurDataURL="/angpao/angpao_trakteer.webp"
               />
               <div className="badge-overlap mt-1">
                 <span className="badge rounded-1rem badge-trakteer">

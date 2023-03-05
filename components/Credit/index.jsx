@@ -47,6 +47,7 @@ export default function Credit({ title, subtitle, dates }) {
           width={924}
           height={198}
           loading="lazy"
+          placeholder="blur"
           blurDataURL="/img/blue-flower-footer.webp"
           src="/img/blue-flower-footer.webp"
           alt=""

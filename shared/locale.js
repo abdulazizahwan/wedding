@@ -195,6 +195,11 @@ const transform = function transform(data) {
             error_attend_validation: data.toast_error_attend_validation,
             error_attend_number_validation: data.toast_error_attend_number_validation,
             error_message_validation: data.toast_error_message_validation,
+        },
+
+        couple: {
+            groom: data.groom_label,
+            bride: data.bride_label,
         }
     };
 };

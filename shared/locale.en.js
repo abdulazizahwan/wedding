@@ -207,6 +207,9 @@ const locale = {
     toast_error_attend_validation: "Attend must be either true or false",
     toast_error_attend_number_validation: "Attend couldn't be empty!",
     toast_error_message_validation: "Message couldn't be empty!",
+
+    bride_label: "Second Daughter of Mr. Sudiarko, S.Pd. & Mrs. Ani Eryawati, S.Pd.",
+    groom_label: "Last Son of Mr. Ahwan (Alm) & Mrs. Muyasaroh",
 };
 
 export default locale;

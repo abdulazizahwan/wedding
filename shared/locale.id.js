@@ -208,6 +208,9 @@ const locale = {
     toast_error_attend_validation: "Status kehadiran tidak boleh kosong!",
     toast_error_attend_number_validation: "Jumlah tamu tidak boleh kosong!",
     toast_error_message_validation: "Pesan tidak boleh kosong!",
+
+    bride_label: "Putri Kedua dari Bapak Sudiarko, S.Pd. & Ibu Ani Eryawati, S.Pd.",
+    groom_label: "Putra Terakhir dari Bapak Ahwan (Alm) & Ibu Muyasaroh",
 };
 
 export default locale;

@@ -2,6 +2,7 @@ import { useContext } from "react";
 import Head from "next/head";
 
 import BottomNavigation from "../components/BottomNavigation";
+import Couple from "../components/Couple";
 import Credit from "../components/Credit";
 import Events from "../components/Events";
 import Favicon from "../components/Favicon";
@@ -66,6 +67,11 @@ export default function Home() {
                 dateCountdown={sharedData.dateCountdown}
                 background={sharedData.dateMaskPicture}
                 streamId={sharedData.liveStreamSource}
+            />
+
+            <Couple
+                brideLabel={locale.couple.bride}
+                groomLabel={locale.couple.groom}
             />
 
             <LoveStory

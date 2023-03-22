@@ -60,13 +60,13 @@ export default function SaveTheDate({
           </div>
         </div>
       </div>
-      <div className="curved-decoration">
+      {/* <div className="curved-decoration">
         <CurvedSeparator
           className="bg-secondary-svg"
           width="100%"
           height="100%"
         />
-      </div>
+      </div> */}
     </section>
   );
 }

@@ -283,6 +283,7 @@ section#send-gift:after {
 
 .svg-decoration {
     position: absolute;
+    z-index: -1;
 }
 
 .svg-decoration.middle-left {

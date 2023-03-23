@@ -39,49 +39,38 @@ const locale = {
 
     story_title: "Cerita Kami",
     story_subtitle: "",
-    story_top_title: "Semua berawal dari ... di tahun 2019",
+    story_top_title: "Semua berawal dari pertemuan di tahun 2019",
     story_top_body: "",
-    story_bottom_title: "Setelah ... tahun, di tahun 2023...",
+    story_bottom_title: "Setelah 1 ½ tahun, di tahun 2023...",
     story_bottom_body:
-        "Aziz memberanikan diri untuk menyampaikan keinginan menyamakan visi untuk membangun keluarga bersama.",
+        "Aziz memberanikan diri untuk menyampaikan keinginan menyamakan visi untuk membangun keluarga bersama Dewi.",
     story_timeline: [
         [
             "Pertemuan",
-            "...",
+            "Agustus 2019",
             `
-      Can you rework to make the pizza look more delicious. Needs to be sleeker is this the best we can do, can you make it look more designed i was wondering if my cat could be placed over the logo in the flyer.
-      <br/>
-      Can you rework to make the pizza look more delicious. Needs to be sleeker is this the best we can do, can you make it look more designed i was wondering if my cat could be placed over the logo in the flyer..
+      Pada tahun 2019, Aziz bertemu Dewi dan kami merupakan teman jajan di Kantin sekolah tempat kami melangsungkan Praktik Pengalaman Lapangan.
       `,
         ],
         [
             "Mengenal Satu Sama Lain",
-            "...",
+            "Juli 2021",
             `
-      Can you rework to make the pizza look more delicious. Needs to be sleeker is this the best we can do, can you make it look more designed i was wondering if my cat could be placed over the logo in the flyer.
-      `,
-        ],
-        [
-            "Bersatu",
-            "...",
-            `
-      Can you rework to make the pizza look more delicious. Needs to be sleeker is this the best we can do, can you make it look more designed i was wondering if my cat could be placed over the logo in the flyer.
-      <br/>
-      Can you rework to make the pizza look more delicious. Needs to be sleeker is this the best we can do, can you make it look more designed i was wondering if my cat could be placed over the logo in the flyer.
+        Setelah lama tak berjumpa, kami bertemu kembali pada Juli 2021 dan mulai mengenal satu sama lain. Hingga akhirnya, Aziz dan Dewi merasa seperti sudah lebih dari sekedar teman setelah mengenal kebiasaan, kelebihan, dan kekurangan masing-masing.
       `,
         ],
         [
             "Mengikat Janji",
-            "...",
+            "Oktober 2021",
             `
-      Can you rework to make the pizza look more delicious. Needs to be sleeker is this the best we can do, can you make it look more designed i was wondering if my cat could be placed over the logo in the flyer.
+      Semenjak itu Kami pun akhirnya bersama. Aziz juga memberanikan diri menyampaikan niat untuk melanjutkan ke hubungan yang serius dan mengusulkan rencana melamar ke keluarga Dewi.
       `,
         ],
         [
             "Melamar",
-            "...",
+            "Januari 2022",
             `
-      Can you rework to make the pizza look more delicious. Needs to be sleeker is this the best we can do, can you make it look more designed i was wondering if my cat could be placed over the logo in the flyer.
+      Tahunpun berganti. Lembaran baru dimulai. Aziz melamar Dewi pada Januari 2022 sebagai tahap awal mengikat janji hidup bersama.
       `,
         ],
     ],

@@ -2,8 +2,8 @@ import Image from "next/image";
 
 import CurvedSeparator from "./curved-separator.svg";
 import IconLove from "./icon-love.svg";
+import Illustration2Love from "./illustration-2-love.svg";
 import IllustrationLove from "./illustration-love.svg";
-import IllustrationRound from "./illustration-round.svg";
 
 const htmlDecode = (content) => {
   if (process.browser) {
@@ -120,7 +120,7 @@ export default function Dates({
           <IllustrationLove width="100%" height="100%" />
         </div>
         <div className="svg-decoration bottom-right">
-          <IllustrationRound />
+          <Illustration2Love />
         </div>
       </div>
     </section>

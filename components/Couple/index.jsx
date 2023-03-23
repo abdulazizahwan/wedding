@@ -2,6 +2,7 @@
 import Image from "next/image";
 
 import CurvedSeparator from "./curved-separator.svg";
+import IllustrationLove from "./illustration-love.svg";
 
 export default function Couple({ brideLabel, groomLabel }) {
   return (
@@ -78,6 +79,14 @@ export default function Couple({ brideLabel, groomLabel }) {
           width="100%"
           height="100%"
         />
+      </div>
+      <div className="svg-decoration-container">
+        <div className="svg-decoration middle-left">
+          <IllustrationLove width="100%" height="100%" />
+        </div>
+        <div className="svg-decoration bottom-right">
+          <IllustrationLove />
+        </div>
       </div>
     </section>
   );

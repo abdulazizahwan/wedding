@@ -38,49 +38,38 @@ const locale = {
 
     story_title: "Our Story",
     story_subtitle: "",
-    story_top_title: "We started as ... in 2019",
+    story_top_title: "It all started from the meeting in 2019",
     story_top_body: "",
-    story_bottom_title: "In ..., ... years later...",
+    story_bottom_title: "After 1 ½ years, in 2023...",
     story_bottom_body:
-        "Aziz conveyed the intention of wanting to share the vision of building a family together.",
+        "Aziz mustered up the courage to express his desire to align their visions and build a family together with Dewi.",
     story_timeline: [
         [
             "First met",
-            "...",
+            "August 2019",
             `
-    Can you rework to make the pizza look more delicious. Needs to be sleeker is this the best we can do, can you make it look more designed i was wondering if my cat could be placed over the logo in the flyer.
-    <br/>
-    Can you rework to make the pizza look more delicious. Needs to be sleeker is this the best we can do, can you make it look more designed i was wondering if my cat could be placed over the logo in the flyer.
+    In 2019, Aziz met Dewi and we became snack buddies at the school cafeteria where we were conducting our Field Experience Practice.
     `,
         ],
         [
-            "First date",
-            "...",
+            "Getting to Know Each Other",
+            "July 2021",
             `
-    Can you rework to make the pizza look more delicious. Needs to be sleeker is this the best we can do, can you make it look more designed i was wondering if my cat could be placed over the logo in the flyer.
+    After a long time not seeing each other, we met again in July 2021 and started to get to know each other. Eventually, Aziz and Dewi felt like they were more than just friends after getting to know each other's habits, strengths, and weaknesses.
     `,
         ],
         [
-            "Love began",
-            "...",
+            "Making a Promise",
+            "October 2021",
             `
-    Can you rework to make the pizza look more delicious. Needs to be sleeker is this the best we can do, can you make it look more designed i was wondering if my cat could be placed over the logo in the flyer.
-    <br/>
-    Can you rework to make the pizza look more delicious. Needs to be sleeker is this the best we can do, can you make it look more designed i was wondering if my cat could be placed over the logo in the flyer.
+    Since then, we finally became a couple. Aziz also mustered up the courage to express his intention to take the relationship to a serious level and proposed a plan to propose to Dewi's family.
     `,
         ],
         [
-            "Together since",
-            "...",
+            "Engagement",
+            "January 2022",
             `
-    Can you rework to make the pizza look more delicious. Needs to be sleeker is this the best we can do, can you make it look more designed i was wondering if my cat could be placed over the logo in the flyer.
-    `,
-        ],
-        [
-            "He Proposed",
-            "...",
-            `
-    Can you rework to make the pizza look more delicious. Needs to be sleeker is this the best we can do, can you make it look more designed i was wondering if my cat could be placed over the logo in the flyer.
+    Years went by and a new chapter began. Aziz proposed to Dewi in January 2022 as the first step in binding their lives together in a commitment.
     `,
         ],
     ],

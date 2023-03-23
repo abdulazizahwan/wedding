@@ -103,7 +103,7 @@ export default function Header({
                 "Yahoo",
               ]}
               label={addToCalendarLabel}
-              location="https://goo.gl/maps/AjmFUnYG8HUFzmks6"
+              location="336X+WQ2, Jl. Raya Pagiyanten Barat, Kedungsukun, Pagiyanten, Kec. Adiwerna, Kabupaten Tegal, Jawa Tengah 52194"
               startDate="2023-06-05"
               endDate="2023-06-05"
               startTime="10:00"

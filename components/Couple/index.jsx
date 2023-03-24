@@ -20,12 +20,12 @@ export default function Couple({ brideLabel, groomLabel }) {
                   width: "100%",
                 }}
                 layout="responsive"
-                width={40}
-                height={60}
+                width={247}
+                height={312}
                 loading="lazy"
                 placeholder="blur"
-                blurDataURL="https://firebasestorage.googleapis.com/v0/b/next-wedding-app.appspot.com/o/static%2Fdewi-d-shape.webp?alt=media&token=46ff1fd8-3123-4a9b-953b-384a693f2841"
-                src="https://firebasestorage.googleapis.com/v0/b/next-wedding-app.appspot.com/o/static%2Fdewi-d-shape.webp?alt=media&token=46ff1fd8-3123-4a9b-953b-384a693f2841"
+                blurDataURL="https://firebasestorage.googleapis.com/v0/b/next-wedding-app.appspot.com/o/static%2FHitam-Dewi-D-Shape.webp?alt=media&token=64c67c9a-53cc-4b11-ad1e-34d3755069ed"
+                src="https://firebasestorage.googleapis.com/v0/b/next-wedding-app.appspot.com/o/static%2FHitam-Dewi-D-Shape.webp?alt=media&token=64c67c9a-53cc-4b11-ad1e-34d3755069ed"
                 alt="Image of {brideLabel}"
               />
             </div>
@@ -52,12 +52,12 @@ export default function Couple({ brideLabel, groomLabel }) {
                   width: "100%",
                 }}
                 layout="responsive"
-                width={40}
-                height={60}
+                width={247}
+                height={312}
                 loading="lazy"
                 placeholder="blur"
-                blurDataURL="https://firebasestorage.googleapis.com/v0/b/next-wedding-app.appspot.com/o/static%2Faziz-a-shape.webp?alt=media&token=fd797a10-abb6-4acf-8473-d44a6aa3efa1"
-                src="https://firebasestorage.googleapis.com/v0/b/next-wedding-app.appspot.com/o/static%2Faziz-a-shape.webp?alt=media&token=fd797a10-abb6-4acf-8473-d44a6aa3efa1"
+                blurDataURL="https://firebasestorage.googleapis.com/v0/b/next-wedding-app.appspot.com/o/static%2FHitam-Aziz-A-Shape.webp?alt=media&token=5b73916f-3312-4c45-9472-9c09c3113cef"
+                src="https://firebasestorage.googleapis.com/v0/b/next-wedding-app.appspot.com/o/static%2FHitam-Aziz-A-Shape.webp?alt=media&token=5b73916f-3312-4c45-9472-9c09c3113cef"
                 alt="Image of {brideLabel}"
               />
             </div>

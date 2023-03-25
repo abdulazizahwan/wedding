@@ -1,6 +1,5 @@
 /* eslint-disable @next/next/no-img-element */
 
-import CurvedSeparator from "./curved-separator.svg";
 import MaskLoveSvg from "./mask-love";
 import useCountdown from "./use-countdown";
 

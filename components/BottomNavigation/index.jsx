@@ -1,4 +1,3 @@
-/* eslint-disable @next/next/no-img-element */
 import { scrollToAnchor } from "../../utils/helpers";
 
 export default function BottomNavigation({ navigationItems }) {

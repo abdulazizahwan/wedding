@@ -1,4 +1,5 @@
-/* eslint-disable @next/next/no-img-element */
+import Image from "next/image";
+
 import CurvedSeparator from "./curved-separator.svg";
 import IconLoveplus from "./icon-loveplus.svg";
 import useLightbox from "./use-lightbox";
@@ -22,7 +23,17 @@ export default function Gallery({ gallery }) {
                                             setOpen(true);
                                         }}
                                     >
-                                        <img className="img-fluid" src={thumbnail} alt="" />
+                                        <div>
+                                            <Image className="img-fluid"
+                                                src={thumbnail}
+                                                layout="responsive"
+                                                width={30}
+                                                height={20}
+                                                loading="lazy"
+                                                placeholder="blur"
+                                                blurDataURL={thumbnail}
+                                                alt="" />
+                                        </div>
                                         <span className="hover-effect-container">
                                             <span className="hover-effect-icon has-svg">
                                                 <IconLoveplus />

@@ -1,4 +1,3 @@
-/* eslint-disable @next/next/no-img-element */
 import { AddToCalendarButton } from "add-to-calendar-button-react";
 import Image from "next/image";
 

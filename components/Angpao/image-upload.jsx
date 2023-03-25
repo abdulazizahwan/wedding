@@ -1,4 +1,3 @@
-/* eslint-disable @next/next/no-img-element */
 import { useState } from "react";
 import { ProgressBar } from "react-bootstrap";
 import toast from "react-hot-toast";

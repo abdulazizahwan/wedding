@@ -1,7 +1,7 @@
 const data = {
     headerBackground: "https://firebasestorage.googleapis.com/v0/b/next-wedding-app.appspot.com/o/static%2FHeaderBackground.webp?alt=media&token=f6f3e5e5-b368-4da8-88f9-7082bcd81265",
     dateCountdown: "2023-06-05T08:00:00",
-    dateMaskPicture: "https://firebasestorage.googleapis.com/v0/b/next-wedding-app.appspot.com/o/static%2FDateMaskPicture.webp?alt=media&token=b767d3f3-a9ff-409e-b5b4-27c22ff0bf1e",
+    dateMaskPicture: "https://firebasestorage.googleapis.com/v0/b/next-wedding-app.appspot.com/o/static%2FDateMaskPicture.webp?alt=media&token=45fe5c32-25d1-4743-a7d2-69e234adc344",
     eventBackground: "https://firebasestorage.googleapis.com/v0/b/next-wedding-app.appspot.com/o/static%2FEvent-Background1.webp?alt=media&token=4b410d5e-bcc1-46bd-9098-1491d764fdad",
     eventBackground2: "https://firebasestorage.googleapis.com/v0/b/next-wedding-app.appspot.com/o/static%2FEvent-Background2.webp?alt=media&token=5754edf0-af0c-4129-a170-66db1e618a55",
     liveStreamSource: "gpMdYMhR2Tk",

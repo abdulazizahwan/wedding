@@ -23,8 +23,8 @@ export default function Couple({ brideLabel, groomLabel }) {
                 height={312}
                 loading="lazy"
                 placeholder="blur"
-                blurDataURL="https://firebasestorage.googleapis.com/v0/b/next-wedding-app.appspot.com/o/static%2FHitam-Dewi-D-Shape.webp?alt=media&token=64c67c9a-53cc-4b11-ad1e-34d3755069ed"
-                src="https://firebasestorage.googleapis.com/v0/b/next-wedding-app.appspot.com/o/static%2FHitam-Dewi-D-Shape.webp?alt=media&token=64c67c9a-53cc-4b11-ad1e-34d3755069ed"
+                blurDataURL="https://firebasestorage.googleapis.com/v0/b/next-wedding-app.appspot.com/o/static%2FDewi-D-Shape-New.webp?alt=media&token=9750b01d-d511-4a6e-8c91-1fb28ad64b32"
+                src="https://firebasestorage.googleapis.com/v0/b/next-wedding-app.appspot.com/o/static%2FDewi-D-Shape-New.webp?alt=media&token=9750b01d-d511-4a6e-8c91-1fb28ad64b32"
                 alt="Image of Bride"
               />
             </div>
@@ -55,8 +55,8 @@ export default function Couple({ brideLabel, groomLabel }) {
                 height={312}
                 loading="lazy"
                 placeholder="blur"
-                blurDataURL="https://firebasestorage.googleapis.com/v0/b/next-wedding-app.appspot.com/o/static%2FHitam-Aziz-A-Shape.webp?alt=media&token=5b73916f-3312-4c45-9472-9c09c3113cef"
-                src="https://firebasestorage.googleapis.com/v0/b/next-wedding-app.appspot.com/o/static%2FHitam-Aziz-A-Shape.webp?alt=media&token=5b73916f-3312-4c45-9472-9c09c3113cef"
+                blurDataURL="https://firebasestorage.googleapis.com/v0/b/next-wedding-app.appspot.com/o/static%2FAziz-A-Shape-New.webp?alt=media&token=033ac841-4dfc-4e0a-8700-51e6cdb0b372"
+                src="https://firebasestorage.googleapis.com/v0/b/next-wedding-app.appspot.com/o/static%2FAziz-A-Shape-New.webp?alt=media&token=033ac841-4dfc-4e0a-8700-51e6cdb0b372"
                 alt="Image of Groom"
               />
             </div>

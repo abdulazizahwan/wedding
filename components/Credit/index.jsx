@@ -16,7 +16,7 @@ export default function Credit({ title, subtitle, dates }) {
       <h6 className="mb-0 text-dark-gray">
         Built using&nbsp;
         <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-          <img src="/img/nextjs-logo.png" alt="nextjs" height="24" />
+          <img src="/img/nextjs-logo.png" alt="nextjs logo" height="24" />
         </a>
         &nbsp;technology
       </h6>
@@ -24,11 +24,11 @@ export default function Credit({ title, subtitle, dates }) {
       <h6 className="mb-0 text-dark-gray">
         Deploy with&nbsp;
         <a href="https://vercel.com" target="_blank" rel="noreferrer">
-          <img src="/img/vercel.png" alt="firebase" height="24" />
+          <img src="/img/vercel.png" alt="vercel logo" height="24" />
         </a>
         &nbsp;Powered by &nbsp;
         <a href="https://firebase.google.com" target="_blank" rel="noreferrer">
-          <img src="/img/firebase.png" alt="github" height="24" />
+          <img src="/img/firebase.png" alt="firebase logo" height="24" />
         </a>
       </h6>
 

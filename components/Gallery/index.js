@@ -32,7 +32,7 @@ export default function Gallery({ gallery }) {
                                                 loading="lazy"
                                                 placeholder="blur"
                                                 blurDataURL={thumbnail}
-                                                alt="" />
+                                                alt="Image of Gallery" />
                                         </div>
                                         <span className="hover-effect-container">
                                             <span className="hover-effect-icon has-svg">

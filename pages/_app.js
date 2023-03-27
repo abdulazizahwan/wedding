@@ -9,10 +9,9 @@ import "../styles/globals.css";
 import "react-image-lightbox/style.css";
 
 function MyApp({ Component, pageProps }) {
-
     const [hasMounted, setHasMounted] = useState(false);
 
-    // Blocking hydration warning
+    // Prevent the hydration warning
     useEffect(() => {
         setHasMounted(true);
     }, []);

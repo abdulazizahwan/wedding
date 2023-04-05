@@ -78,7 +78,7 @@ const locale = {
     event_title: "Acara Pernikahan",
 
     event_akad_name: "Akad Nikah",
-    event_akad_time: "08:00-09:00",
+    event_akad_time: "08:00-09:00 WIB",
     event_akad_place: "Rumah Mempelai Wanita",
     event_akad_address: "Jl. Raya Pagiyanten Barat",
     event_akad_address_2: "Kecamatan Adiwerna",
@@ -92,7 +92,7 @@ const locale = {
     event_teapai_city: "Kabupaten Tegal",
 
     event_reception_name: "Resepsi",
-    event_reception_time: "10:00-14:00",
+    event_reception_time: "12:00-14:00 WIB",
     event_reception_place: "Rumah Mempelai Wanita",
     event_reception_address: "Jl. Raya Pagiyanten Barat",
     event_reception_address_2: "Kecamatan Adiwerna",

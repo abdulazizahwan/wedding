@@ -77,7 +77,7 @@ const locale = {
     event_title: "Wedding Events",
 
     event_akad_name: "Akad Nikah",
-    event_akad_time: "08:00-09:00",
+    event_akad_time: "08.00am-09.00am (UTC+7)",
     event_akad_place: "Bride's Home",
     event_akad_address: "West Pagiyanten Street",
     event_akad_address_2: "Adiwerna District",
@@ -91,7 +91,7 @@ const locale = {
     event_teapai_city: "Tegal Regency",
 
     event_reception_name: "Reception",
-    event_reception_time: "10:00-14:00",
+    event_reception_time: "12.00pm-02.00pm (UTC+7)",
     event_reception_place: "Bride's Home",
     event_reception_address: "West Pagiyanten Street",
     event_reception_address_2: "Adiwerna District",

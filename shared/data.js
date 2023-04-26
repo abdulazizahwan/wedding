@@ -4,7 +4,7 @@ const data = {
     dateMaskPicture: "https://firebasestorage.googleapis.com/v0/b/next-wedding-app.appspot.com/o/static%2FDateMaskPicture.webp?alt=media&token=45fe5c32-25d1-4743-a7d2-69e234adc344",
     eventBackground: "https://firebasestorage.googleapis.com/v0/b/next-wedding-app.appspot.com/o/static%2FEvent-Background1.webp?alt=media&token=4b410d5e-bcc1-46bd-9098-1491d764fdad",
     eventBackground2: "https://firebasestorage.googleapis.com/v0/b/next-wedding-app.appspot.com/o/static%2FEvent-Background2.webp?alt=media&token=5754edf0-af0c-4129-a170-66db1e618a55",
-    liveStreamSource: "gpMdYMhR2Tk",
+    liveStreamSource: "@abdulazizahwan/streams",
     videoSource: "sbGy8XR6Zsg",
     videoBackground: "https://firebasestorage.googleapis.com/v0/b/next-wedding-app.appspot.com/o/static%2FVideoBackground.webp?alt=media&token=fd4f2ce2-18c6-48b6-8024-d0984b791d96",
     mapLocation: "https://goo.gl/maps/Najk9gxkyKr4MSvp8",

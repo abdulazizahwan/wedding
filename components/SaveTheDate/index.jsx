@@ -32,7 +32,7 @@ export default function SaveTheDate({
               </p>
               <p className="lead">
                 <a
-                  href={`https://youtu.be/${streamId}`}
+                  href={`https://youtube.com/${streamId}`}
                   target="_blank"
                   rel="noreferrer"
                 >

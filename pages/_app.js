@@ -3,6 +3,7 @@ import { Toaster } from "react-hot-toast";
 import { Analytics } from '@vercel/analytics/react';
 
 import { LangProvider } from "../contexts/language";
+import { analytics } from "../firebase/firebase";
 
 import "../styles/bootstrap.css";
 import "../styles/globals.css";
@@ -14,6 +15,7 @@ function MyApp({ Component, pageProps }) {
     // Prevent the hydration warning
     useEffect(() => {
         setHasMounted(true);
+        analytics;
     }, []);
     if (!hasMounted) {
         return null;

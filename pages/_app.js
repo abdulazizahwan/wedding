@@ -1,5 +1,6 @@
 import { useEffect, useState } from "react";
 import { Toaster } from "react-hot-toast";
+import { hotjar } from "react-hotjar";
 import { Analytics } from '@vercel/analytics/react';
 
 import { LangProvider } from "../contexts/language";
@@ -16,6 +17,7 @@ function MyApp({ Component, pageProps }) {
     useEffect(() => {
         setHasMounted(true);
         analytics;
+        hotjar.initialize(3483404, 6);
     }, []);
     if (!hasMounted) {
         return null;

@@ -47,6 +47,7 @@ const transform = function transform(data) {
             subtitle: data.date_subtitle,
             liveStreamText: data.date_live_stream_text,
             body: data.date_body,
+            body_after: data.date_body_after,
             countdown: {
                 day: data.date_countdown_day,
                 hour: data.date_countdown_hour,

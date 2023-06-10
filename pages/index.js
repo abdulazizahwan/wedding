@@ -63,6 +63,7 @@ export default function Home() {
                 subtitle={locale.save_the_date.subtitle}
                 liveStreamText={locale.save_the_date.liveStreamText}
                 body={locale.save_the_date.body}
+                body_after={locale.save_the_date.body_after}
                 countdownText={locale.save_the_date.countdown}
                 dateCountdown={sharedData.dateCountdown}
                 background={sharedData.dateMaskPicture}

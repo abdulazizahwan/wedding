@@ -31,6 +31,7 @@ const locale = {
     date_subtitle: "Monday June 05th 2023 - Bride's Home, Pagiyanten Tegal",
     date_live_stream_text: 'Live Streaming Akad Nikah on YouTube',
     date_body: "We are getting married in",
+    date_body_after: "We have been married for",
     date_countdown_day: "Day",
     date_countdown_hour: "Hours",
     date_countdown_minute: "Minutes",

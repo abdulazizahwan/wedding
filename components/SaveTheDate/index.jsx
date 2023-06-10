@@ -1,19 +1,27 @@
+/* eslint-disable react-hooks/rules-of-hooks */
 /* eslint-disable @next/next/no-img-element */
 
 import MaskLoveSvg from "./mask-love";
 import useCountdown from "./use-countdown";
+import useCountup from "./use-countup";
 
 export default function SaveTheDate({
   title,
   subtitle,
   liveStreamText,
-  body,
+    body,
+  body_after,
   dateCountdown,
   background,
   countdownText,
   streamId,
 }) {
-  const countdownEl = useCountdown(dateCountdown, countdownText);
+  const currentDate = new Date();
+  const targetDate = new Date(dateCountdown);
+  const countdownEl =
+    targetDate > currentDate
+      ? useCountdown(dateCountdown, countdownText)
+      : useCountup(dateCountdown, countdownText);
 
   return (
     <section id="live">
@@ -48,7 +56,7 @@ export default function SaveTheDate({
                 </a>
               </p>
 
-              <p className="mb-4 pr-5">{body}</p>
+              <p className="mb-4 pr-5">{targetDate>currentDate? body: body_after}</p>
               <div className="countdown row text-center">{countdownEl}</div>
             </div>
           </div>

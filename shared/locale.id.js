@@ -32,6 +32,7 @@ const locale = {
     date_subtitle: "Senin, 05 Juni 2023 - Mempelai Wanita, Pagiyanten Tegal",
     date_live_stream_text: 'Siaran Langsung Akad Nikah di YouTube',
     date_body: "Kami akan menikah dalam waktu",
+    date_body_after: "Kami telah menikah selama",
     date_countdown_day: "Hari",
     date_countdown_hour: "Jam",
     date_countdown_minute: "Menit",
